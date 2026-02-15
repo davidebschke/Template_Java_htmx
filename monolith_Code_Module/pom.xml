@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.27.7</version> <!-- Entfernt die Sicherheitslücke in isXMLEqualTo von assertj -->
+            <version>3.27.7</version> <!-- Removes the security vulnerability in isXMLEqualTo from assertj -->
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
